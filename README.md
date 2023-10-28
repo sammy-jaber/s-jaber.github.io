@@ -5,7 +5,7 @@ My [personal site](https://sammyjaber.co.uk) built with [Pelican](http://getpeli
 ## Development
 To preview the site during development:
 ```shell
-git clone https://github.com/w-frank/s-jaber.github.io.git
+git clone https://github.com/sammy-jaber/s-jaber.github.io.git
 cd w-frank.github.io
 -- development --
 ./develop.sh
