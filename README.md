@@ -6,7 +6,7 @@ My [personal site](https://sammyjaber.co.uk) built with [Pelican](http://getpeli
 To preview the site during development:
 ```shell
 git clone https://github.com/sammy-jaber/s-jaber.github.io.git
-cd w-frank.github.io
+cd s-jaber.github.io
 -- development --
 ./develop.sh
 ```
@@ -15,7 +15,7 @@ Once the basic server has been started, you can preview the site at http://local
 ## Deployment
 ```shell
 git clone https://github.com/sammy-jaber/s-jaber.github.io.git
-cd w-frank.github.io
+cd s-jaber.github.io
 -- add/update content --
 ./publish.sh "commit message"
 ```
